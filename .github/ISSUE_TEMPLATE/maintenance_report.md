@@ -1,17 +1,22 @@
 ---
-name: Maintenance report
-about: Create a task for maintenance or housekeeping
-title: 'Maintenance: '
-labels: 'maintenance, needs-triage'
-assignees: ''
+name: Maintenance Task
+about: Submit a maintenance or housekeeping task
+title: "Maintenance: [Provide a brief title]"
+labels: ["maintenance", "needs-triage"]
 ---
 
-## Maintenance Description
-Describe the maintenance task or refactoring needed.
+**Maintenance Description**
+A clear and concise description of the maintenance or housekeeping task.
 
-## Impact
-Why is this maintenance necessary? What does it improve?
+**Reasoning**
+Why is this maintenance required? How will it benefit the codebase or project stability?
 
-## Tasks Checklist
-- [ ] Task 1
-- [ ] Task 2
+**Tasks/Steps**
+- [ ] List task item 1
+- [ ] List task item 2
+
+**Scope**
+- [ ] Minor refactor
+- [ ] Major overhaul
+- [ ] Dependency update
+- [ ] Documentation update
