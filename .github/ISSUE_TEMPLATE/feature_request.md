@@ -1,9 +1,8 @@
 ---
-name: Feature Request
-about: Suggest an idea for this project.
-title: 'Feature: [Title]'
-labels: 'enhancement, needs-triage'
-assignees: ''
+name: Feature Request / Epic
+about: Suggest an idea or large epic feature for this project
+title: "Epic: [Provide a brief title]"
+labels: ["epic", "needs-triage"]
 ---
 
 **Is your feature request related to a problem? Please describe.**
